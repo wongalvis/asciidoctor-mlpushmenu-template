@@ -11,4 +11,6 @@ Run `asciidoctor -T custom-html5 index.adoc` will convert your index.adoc into i
 - js/
 - ...
 
+A sample from Taiga documentation is added for preview (taiga-sample.adoc and taiga-sample.html).
+
 The template is currently under testing and development.
