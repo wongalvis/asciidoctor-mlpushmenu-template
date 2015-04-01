@@ -1,7 +1,7 @@
 ﻿= Asciidoctor Backends
 :toc: left
 :numbered:
-:toclevels: 4
+:toclevels: 3
 
 image:https://travis-ci.org/asciidoctor/asciidoctor-backends.svg?branch=master[Build Status,link=https://travis-ci.org/asciidoctor/asciidoctor-backends]
 
