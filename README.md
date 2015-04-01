@@ -11,6 +11,6 @@ Run `asciidoctor -T custom-html5 index.adoc` will convert your index.adoc into i
 - js/
 - ...
 
-A sample from Taiga documentation is added for preview (taiga-sample.adoc and taiga-sample.html). Another set of sample is from [asciidoctor-backends](https://github.com/asciidoctor/asciidoctor-backends) README.adoc which I added a line `:toclevels: 3` so that it demonstrates 3-levels push menu (asciidoctor-backends-readme.adoc and asciidoctor-backends-readme.html).
+A sample from Taiga documentation is added for preview (taiga-sample.adoc and taiga-sample.html). Another set of sample is from [asciidoctor-backends](https://github.com/asciidoctor/asciidoctor-backends) README.adoc in which I added a line `:toclevels: 3` so that it demonstrates 3-levels push menu (asciidoctor-backends-readme.adoc and asciidoctor-backends-readme.html).
 
 The template is currently under testing and development.
